@@ -5,4 +5,3 @@
 - <a href="https://chenjaipeng.github.io/week3/" target="_blank">week3</a>  
 - <a href="https://chenjaipeng.github.io/week6/" target="_blank">week6</a>
 - <a href="https://chenjaipeng.github.io/week7/" target="_blank">week7</a>
-- <a href="https://chenjaipeng.github.io/week8/" target="_blank">week8</a>
